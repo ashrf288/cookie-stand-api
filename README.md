@@ -26,4 +26,4 @@ Template Project for starting up CRUD API with Django Rest Framework
 
 ##
 
-[base_url](https://github.com/codefellows/python-401-api-quickstart)
+[base repo](https://github.com/codefellows/python-401-api-quickstart)
