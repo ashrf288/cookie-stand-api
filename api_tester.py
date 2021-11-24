@@ -2,7 +2,7 @@ import fire
 import requests
 
 API_HOST = "http://localhost:8000"
-RESOURCE_URI = "things"
+RESOURCE_URI = "cookie_stand"
 USERNAME = "admin"
 PASSWORD = "admin"
 
