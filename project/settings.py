@@ -169,6 +169,6 @@ CORS_ORIGIN_WHITELIST = tuple(env.list("ALLOWED_ORIGINS"))
 CORS_ALLOW_ALL_ORIGINS = env.bool("ALLOW_ALL_ORIGINS")
 
 SIMPLE_JWT = {
-    "ACESS_TOKEN_LIFETIME" : timedelta(seconds=60*60)
+    "ACESS_TOKEN_LIFETIME": timedelta(seconds=60*60)
 }
 
